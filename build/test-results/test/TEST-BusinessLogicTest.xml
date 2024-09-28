@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BusinessLogicTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-09-28T09:16:03" hostname="DESKTOP-KQBC8FP" time="0.056">
+  <properties/>
+  <testcase name="testIsValidUser()" classname="BusinessLogicTest" time="0.033"/>
+  <testcase name="testAddTwoNumbers()" classname="BusinessLogicTest" time="0.005"/>
+  <testcase name="testCalculateDiscount()" classname="BusinessLogicTest" time="0.002"/>
+  <testcase name="testIsPrime()" classname="BusinessLogicTest" time="0.001"/>
+  <testcase name="testCalculateTax()" classname="BusinessLogicTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
