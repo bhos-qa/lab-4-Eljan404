@@ -57,6 +57,6 @@ public class BusinessLogic {
 
     // 10. Method to generate a token based on user ID (vulnerable code)
     public String generateToken(String userId) {
-        return userId + "12345"; // This is insecure (vulnerable code)
+        return userId + "12345"; 
     }
 }
